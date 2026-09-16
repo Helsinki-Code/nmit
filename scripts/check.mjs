@@ -24,11 +24,20 @@ const contrast=(a,b)=>{const x=luminance(a),y=luminance(b);return (Math.max(x,y)
 const css=await readFile('site/assets/style.css','utf8');
 const environments=Array.from(css.matchAll(/:root(?:\[data-theme=dark\])?\{([^}]+)\}/g),m=>Object.fromEntries(Array.from(m[1].matchAll(/--([\w-]+):(#[a-f\d]{6})/gi),v=>[v[1],v[2]])));
 const contrastResults=[];
+const heroCss=await readFile('site/assets/hero.css','utf8');
+const modelEnvironments=Array.from(heroCss.matchAll(/:root(?:\[data-theme=dark\])?\{([^}]+)\}/g),m=>Object.fromEntries(Array.from(m[1].matchAll(/--([\w-]+):(#[a-f\d]{6})/gi),v=>[v[1],v[2]])));
 for(const [i,e]of environments.entries()){
  for(const text of ['ink','muted','blue'])for(const background of ['paper','surface','panel','hub','sheet']){
   const ratio=contrast(e[text],e[background]);assert(ratio>=4.5,`${i?'Dark':'Light'} ${text} on ${background}: ${ratio.toFixed(2)}`);contrastResults.push({theme:i?'dark':'light',text,background,ratio:Number(ratio.toFixed(2))});
  }
  assert(contrast(e['button-ink'],e.button)>=4.5,'Button contrast');
+ const model=modelEnvironments[i];
+ for(const text of ['ink','muted','blue']){
+  const ratio=contrast(e[text],model['model-top']);assert(ratio>=4.5,`Model ${text} contrast`);
+  contrastResults.push({theme:i?'dark':'light',text,background:'model-top',ratio:Number(ratio.toFixed(2))});
+ }
+ const coreRatio=contrast(model['model-core-ink'],model['model-core']);assert(coreRatio>=4.5,'Model core contrast');
+ contrastResults.push({theme:i?'dark':'light',text:'model-core-ink',background:'model-core',ratio:Number(coreRatio.toFixed(2))});
 }
 const contact=await readFile('site/contact/index.html','utf8');
 for(const id of ['name','email','company','service','message'])assert(contact.includes(`for="${id}"`),`Contact field ${id} is labeled`);

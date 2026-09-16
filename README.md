@@ -1,6 +1,6 @@
 # NMIT Solutions website
 
-A responsive, 17-page company site with a custom interactive integration diagram, light and dark themes, individual service pages, company and client information, workshop, careers, insights, and contact.
+A responsive, 17-page company site with an interactive 3D service assembly, animated hero headline, light and dark themes, individual service pages, company and client information, workshop, careers, insights, and contact.
 
 ## Preview
 
@@ -14,7 +14,11 @@ Page templates and content: `scripts/build.mjs`.
 
 Styling and themes: `site/assets/style.css`.
 
-Navigation, interactive diagram, and enquiry drafting: `site/assets/app.js`.
+Hero markup: `scripts/hero.mjs`. The CSS 3D model and headline sequence use `site/assets/hero.css` and `site/assets/hero.js`, loaded only on the homepage. The model starts facing the screen and gently sways through ±4° of yaw and ±2° of tilt on a roughly 15-second cycle. Hover holds the idle motion; moving across the viewer background adds a softly eased, small pointer response. Service buttons hold still for selection. Dragging or arrow keys take ownership of the view until Reset view resumes the sway. Opening an explanation freezes the model while keeping its board upright. Drag or arrow keys adjust its view within gentle limits; Reset view or Home restores the front view. Clicking a service block or selector opens an upright explanation board in the same viewing area, preserving the layout and camera. Other service selectors remain available. Close or Escape restores the model and focus to the opener; dragging never opens a board.
+
+All three headline lines transition together between complete service-related messages every 6.2 seconds, with a staggered vertical reveal rather than a rotating single word. Context, description, actions, and service notation reveal once on load. Pause motion freezes the model and cancels text animation immediately and leaves the complete current headline readable. Reduced-motion preferences disable automatic animation; it also stops offscreen and in hidden tabs. Model interaction works independently of headline motion. No 3D library, external model, or WebGL is required.
+
+Navigation and enquiry drafting: `site/assets/app.js`.
 
 Run `npm run build` after content/template changes. CSS/JavaScript changes are served directly. Run `npm run check` to verify the generated page inventory, internal destinations, headings, metadata, image names, contact labels, and both palettes' body-text/button contrast.
 

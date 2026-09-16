@@ -90,6 +90,30 @@
     "ratio": 5.99
   },
   {
+    "theme": "light",
+    "text": "ink",
+    "background": "model-top",
+    "ratio": 12.3
+  },
+  {
+    "theme": "light",
+    "text": "muted",
+    "background": "model-top",
+    "ratio": 5.04
+  },
+  {
+    "theme": "light",
+    "text": "blue",
+    "background": "model-top",
+    "ratio": 5.92
+  },
+  {
+    "theme": "light",
+    "text": "model-core-ink",
+    "background": "model-core",
+    "ratio": 6.49
+  },
+  {
     "theme": "dark",
     "text": "ink",
     "background": "paper",
@@ -178,5 +202,29 @@
     "text": "blue",
     "background": "sheet",
     "ratio": 6.66
+  },
+  {
+    "theme": "dark",
+    "text": "ink",
+    "background": "model-top",
+    "ratio": 9.33
+  },
+  {
+    "theme": "dark",
+    "text": "muted",
+    "background": "model-top",
+    "ratio": 5.9
+  },
+  {
+    "theme": "dark",
+    "text": "blue",
+    "background": "model-top",
+    "ratio": 5.72
+  },
+  {
+    "theme": "dark",
+    "text": "model-core-ink",
+    "background": "model-core",
+    "ratio": 9.39
   }
 ]

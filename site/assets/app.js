@@ -42,20 +42,6 @@ document.addEventListener('click', event => {
 });
 window.matchMedia('(min-width: 621px)').addEventListener('change', event => { if (event.matches) closeMenu(); });
 
-const diagramNotes = {
-  apps: 'APIs connect the applications and data you rely on.',
-  cloud: 'Cloud infrastructure gives those applications a foundation.',
-  people: 'Technology staffing connects the work with the right skills.',
-  delivery: 'DevOps brings development and operations into the same plan.'
-};
-document.querySelectorAll('.system-node').forEach(node => {
-  node.setAttribute('aria-pressed', 'false');
-  node.addEventListener('click', () => {
-    document.querySelectorAll('.system-node').forEach(n => n.setAttribute('aria-pressed', String(n === node)));
-    document.querySelector('.diagram-note').textContent = diagramNotes[node.dataset.focus];
-  });
-});
-
 const form = document.querySelector('#enquiry-form');
 const service = document.querySelector('#service');
 if (service) {
