@@ -1,0 +1,293 @@
+{
+  "review_date": "2026-09-17",
+  "url": "https://nmit-solutions.com/",
+  "scope": "Public linked website; desktop 1280x720 and mobile 390x844; no form submitted",
+  "documents_discovered": [
+    "https://nmit-solutions.com/"
+  ],
+  "discovery_checks": {
+    "robots.txt": 404,
+    "sitemap.xml": 404,
+    "site_search": "No results returned"
+  },
+  "sections": [
+    {
+      "tag": "nav",
+      "id": "header"
+    },
+    {
+      "tag": "section",
+      "id": "home"
+    },
+    {
+      "tag": "section",
+      "id": "services"
+    },
+    {
+      "tag": "section",
+      "id": null
+    },
+    {
+      "tag": "section",
+      "id": "features"
+    },
+    {
+      "tag": "section",
+      "id": "blog"
+    },
+    {
+      "tag": "section",
+      "id": "contact"
+    },
+    {
+      "tag": "footer",
+      "id": "footer"
+    }
+  ],
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://nmit-solutions.com/#home"
+    },
+    {
+      "text": "Services",
+      "url": "https://nmit-solutions.com/#services"
+    },
+    {
+      "text": "Careers",
+      "url": "https://nmit-solutions.com/#features"
+    },
+    {
+      "text": "Blog",
+      "url": "https://nmit-solutions.com/#blog"
+    },
+    {
+      "text": "Contact",
+      "url": "https://nmit-solutions.com/#contact"
+    },
+    {
+      "text": "",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "How is Cloud Computing Helping the Telecom Industry Grow?",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "Leveraging the power of API for partner payments",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "HP and Qualcomm Aim To Prove the Best Defense Is a Great Offense October 19, 2023",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/nmit-solutions-pvt-ltd/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/nmit-solutions-pvt-ltd/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/nmit-solutions-pvt-ltd/"
+    },
+    {
+      "text": "Home",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "About us",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "Services",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "Terms of service",
+      "url": "https://nmit-solutions.com/#"
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://nmit-solutions.com/#"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://nmit-solutions.com/img/logo.jpeg",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/image_1.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/image_2.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/image_3.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/staffings.jfif",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/albidad.png",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/indianbank.png",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/santanderbank.png",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/nse.png",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/finmet.webp",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/bupa.png",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/blog_post1.png",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/blog_post2.png",
+      "alt": ""
+    },
+    {
+      "url": "https://nmit-solutions.com/img/blog_post3.png",
+      "alt": ""
+    }
+  ],
+  "assets": [
+    {
+      "type": "link",
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+    },
+    {
+      "type": "link",
+      "url": "https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css"
+    },
+    {
+      "type": "link",
+      "url": "https://unpkg.com/aos@2.3.1/dist/aos.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/css/line-icons.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/css/style.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/img/favicon.png"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/img/apple-touch-icon.png"
+    },
+    {
+      "type": "link",
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/vendor/aos/aos.css"
+    },
+    {
+      "type": "script",
+      "url": "https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/vendor/boxicons/css/boxicons.min.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/vendor/remixicon/remixicon.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "type": "link",
+      "url": "https://nmit-solutions.com/assets/css/style.css"
+    },
+    {
+      "type": "script",
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "type": "script",
+      "url": "https://unpkg.com/aos@2.3.1/dist/aos.js"
+    },
+    {
+      "type": "script",
+      "url": "https://nmit-solutions.com/js/app.js"
+    },
+    {
+      "type": "script",
+      "url": "https://cdn.jsdelivr.net/npm/typed.js@2.0.12"
+    },
+    {
+      "type": "script",
+      "url": "https://img1.wsimg.com/traffic-assets/js/tccl.min.js"
+    }
+  ],
+  "form": {
+    "fields": [
+      "name",
+      "email",
+      "subject",
+      "message"
+    ],
+    "client_submission": "POST FormData to Google Apps Script; then alert and reload",
+    "delivery_verified": false
+  },
+  "mobile": {
+    "viewport_width": 390,
+    "document_width": 412,
+    "overflow_element": "400px-wide Google Maps iframe"
+  },
+  "limitations": [
+    "No private operations or backend accessed",
+    "Displayed client relationships and metrics not independently verified",
+    "Source snapshot redacts credential-like values in unused commented code"
+  ]
+}

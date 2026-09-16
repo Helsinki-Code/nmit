@@ -1,0 +1,53 @@
+{
+  "review_date": "2026-09-17",
+  "url": "https://nmit-solutions.com/",
+  "public_documents_discovered": 1,
+  "sections_reviewed": [
+    "header",
+    "home",
+    "services",
+    "clients",
+    "statistics",
+    "features",
+    "blog",
+    "contact",
+    "footer"
+  ],
+  "services": [
+    "DevOps",
+    "Cloud Services",
+    "API Integration",
+    "Staffing Services"
+  ],
+  "displayed_customer_logos": [
+    "Bank Albilad",
+    "Indian Bank",
+    "Santander Consumer Bank",
+    "NSE",
+    "Finmet Technologies",
+    "Bupa"
+  ],
+  "visual_viewports": [
+    {
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "issues": [
+    "Careers navigation points to general capability content",
+    "Blog and footer links are placeholders",
+    "All social icons point to LinkedIn",
+    "Fixed header obscures some anchored headings",
+    "Mobile menu stays expanded after section selection",
+    "Fixed-width map causes 22px horizontal overflow at 390px",
+    "Meaningful logos have empty alternative text",
+    "No primary banner action; enquiry action has limited prominence"
+  ],
+  "operations_evidence": "Public marketing claims and client-side enquiry implementation only",
+  "contact_submission_tested": false,
+  "report": "NMIT-WEBSITE-REVIEW.md"
+}

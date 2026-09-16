@@ -1,0 +1,182 @@
+[
+  {
+    "theme": "light",
+    "text": "ink",
+    "background": "paper",
+    "ratio": 13.49
+  },
+  {
+    "theme": "light",
+    "text": "ink",
+    "background": "surface",
+    "ratio": 12.77
+  },
+  {
+    "theme": "light",
+    "text": "ink",
+    "background": "panel",
+    "ratio": 12.42
+  },
+  {
+    "theme": "light",
+    "text": "ink",
+    "background": "hub",
+    "ratio": 13.85
+  },
+  {
+    "theme": "light",
+    "text": "ink",
+    "background": "sheet",
+    "ratio": 12.45
+  },
+  {
+    "theme": "light",
+    "text": "muted",
+    "background": "paper",
+    "ratio": 5.53
+  },
+  {
+    "theme": "light",
+    "text": "muted",
+    "background": "surface",
+    "ratio": 5.23
+  },
+  {
+    "theme": "light",
+    "text": "muted",
+    "background": "panel",
+    "ratio": 5.09
+  },
+  {
+    "theme": "light",
+    "text": "muted",
+    "background": "hub",
+    "ratio": 5.67
+  },
+  {
+    "theme": "light",
+    "text": "muted",
+    "background": "sheet",
+    "ratio": 5.1
+  },
+  {
+    "theme": "light",
+    "text": "blue",
+    "background": "paper",
+    "ratio": 6.49
+  },
+  {
+    "theme": "light",
+    "text": "blue",
+    "background": "surface",
+    "ratio": 6.14
+  },
+  {
+    "theme": "light",
+    "text": "blue",
+    "background": "panel",
+    "ratio": 5.97
+  },
+  {
+    "theme": "light",
+    "text": "blue",
+    "background": "hub",
+    "ratio": 6.66
+  },
+  {
+    "theme": "light",
+    "text": "blue",
+    "background": "sheet",
+    "ratio": 5.99
+  },
+  {
+    "theme": "dark",
+    "text": "ink",
+    "background": "paper",
+    "ratio": 14.06
+  },
+  {
+    "theme": "dark",
+    "text": "ink",
+    "background": "surface",
+    "ratio": 12.59
+  },
+  {
+    "theme": "dark",
+    "text": "ink",
+    "background": "panel",
+    "ratio": 11.6
+  },
+  {
+    "theme": "dark",
+    "text": "ink",
+    "background": "hub",
+    "ratio": 9.87
+  },
+  {
+    "theme": "dark",
+    "text": "ink",
+    "background": "sheet",
+    "ratio": 10.85
+  },
+  {
+    "theme": "dark",
+    "text": "muted",
+    "background": "paper",
+    "ratio": 8.89
+  },
+  {
+    "theme": "dark",
+    "text": "muted",
+    "background": "surface",
+    "ratio": 7.96
+  },
+  {
+    "theme": "dark",
+    "text": "muted",
+    "background": "panel",
+    "ratio": 7.33
+  },
+  {
+    "theme": "dark",
+    "text": "muted",
+    "background": "hub",
+    "ratio": 6.24
+  },
+  {
+    "theme": "dark",
+    "text": "muted",
+    "background": "sheet",
+    "ratio": 6.86
+  },
+  {
+    "theme": "dark",
+    "text": "blue",
+    "background": "paper",
+    "ratio": 8.63
+  },
+  {
+    "theme": "dark",
+    "text": "blue",
+    "background": "surface",
+    "ratio": 7.73
+  },
+  {
+    "theme": "dark",
+    "text": "blue",
+    "background": "panel",
+    "ratio": 7.12
+  },
+  {
+    "theme": "dark",
+    "text": "blue",
+    "background": "hub",
+    "ratio": 6.05
+  },
+  {
+    "theme": "dark",
+    "text": "blue",
+    "background": "sheet",
+    "ratio": 6.66
+  }
+]
