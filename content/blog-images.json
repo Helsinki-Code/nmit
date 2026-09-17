@@ -1,0 +1,152 @@
+[
+  {
+    "path": "/images/articles/api-integration-monitoring/cover",
+    "alt": "NMIT engineers investigate a workflow record with a magnifying lens, connecting an error alert, response time, and completion evidence.",
+    "post": "api-integration-monitoring"
+  },
+  {
+    "path": "/images/articles/api-integration-monitoring/business-outcome",
+    "alt": "NMIT engineers inspect an accepted order whose fulfilment parcel remains pending, separating API acceptance from business completion.",
+    "post": "api-integration-monitoring"
+  },
+  {
+    "path": "/images/articles/api-integration-monitoring/trace-investigation",
+    "alt": "NMIT engineers correlate log, trace, and workflow evidence using a shared reference to investigate a slow integration boundary.",
+    "post": "api-integration-monitoring"
+  },
+  {
+    "path": "/images/articles/integration-handover-checklist/cover",
+    "alt": "NMIT engineers exchange an integration handover binder with tabs for architecture, alerts, and access responsibility.",
+    "post": "integration-handover-checklist"
+  },
+  {
+    "path": "/images/articles/integration-handover-checklist/runbook-drill",
+    "alt": "NMIT engineers consult a recovery runbook and restricted-access checklist before handling a stopped workflow and retained review ticket.",
+    "post": "integration-handover-checklist"
+  },
+  {
+    "path": "/images/articles/integration-handover-checklist/ownership",
+    "alt": "NMIT engineers assign business, operations, and partner responsibility around one workflow and its correction note.",
+    "post": "integration-handover-checklist"
+  },
+  {
+    "path": "/images/articles/incremental-legacy-modernization/cover",
+    "alt": "NMIT engineers measure one replacement module within a retained legacy building, illustrating incremental capability modernization.",
+    "post": "incremental-legacy-modernization"
+  },
+  {
+    "path": "/images/articles/incremental-legacy-modernization/routing-boundary",
+    "alt": "NMIT engineers route a selected request through one controlled boundary to either a legacy folder or a new capability folder.",
+    "post": "incremental-legacy-modernization"
+  },
+  {
+    "path": "/images/articles/incremental-legacy-modernization/retirement-gate",
+    "alt": "NMIT engineers review an old module and its remaining dependency before retiring it beside a validated replacement capability.",
+    "post": "incremental-legacy-modernization"
+  },
+  {
+    "path": "/images/articles/payment-api-testing-checklist/cover",
+    "alt": "NMIT engineers review a payment failure-testing checklist beside duplicate payment tickets and a magnifying lens.",
+    "post": "payment-api-testing-checklist"
+  },
+  {
+    "path": "/images/articles/payment-api-testing-checklist/duplicate-effects",
+    "alt": "NMIT engineers inspect two copies of payment event E1 while allowing one guarded order fulfilment effect.",
+    "post": "payment-api-testing-checklist"
+  },
+  {
+    "path": "/images/articles/payment-api-testing-checklist/fault-injection",
+    "alt": "NMIT engineers disconnect a response cable in an isolated payment test and record an unknown outcome beside a mock acceptance receipt.",
+    "post": "payment-api-testing-checklist"
+  },
+  {
+    "path": "/images/articles/hybrid-cloud-migration-checklist/cover",
+    "alt": "NMIT engineers review a dependency plan beneath an inspected bridge connecting an on-premises folder and a cloud.",
+    "post": "hybrid-cloud-migration-checklist"
+  },
+  {
+    "path": "/images/articles/hybrid-cloud-migration-checklist/dependency-boundaries",
+    "alt": "NMIT engineers review an application dependency map connecting identity, data, and partner services across a hybrid-cloud boundary.",
+    "post": "hybrid-cloud-migration-checklist"
+  },
+  {
+    "path": "/images/articles/hybrid-cloud-migration-checklist/cutover-control",
+    "alt": "NMIT engineers check a source-to-target cutover switch with one active writer token and an amber decision checkpoint.",
+    "post": "hybrid-cloud-migration-checklist"
+  },
+  {
+    "path": "/images/articles/api-integration-project-cost/cover",
+    "alt": "NMIT engineers discuss a quote beside a balance scale weighing data, recovery, and operations scope against a proposal document.",
+    "post": "api-integration-project-cost"
+  },
+  {
+    "path": "/images/articles/api-integration-project-cost/scope-boundary",
+    "alt": "NMIT engineers review approved workflow cards inside an integration scope boundary and a separate proposed change request.",
+    "post": "api-integration-project-cost"
+  },
+  {
+    "path": "/images/articles/api-integration-project-cost/quote-comparison",
+    "alt": "NMIT engineers compare proposal A and proposal B using one shared acceptance checklist and a visible exclusions note.",
+    "post": "api-integration-project-cost"
+  },
+  {
+    "path": "/images/articles/api-event-batch-integration/cover",
+    "alt": "NMIT-branded illustration compares a direct API request, event distribution, and a bundled batch transfer in teal, sage, and amber.",
+    "post": "api-vs-event-driven-vs-batch-integration"
+  },
+  {
+    "path": "/images/articles/api-event-batch-integration/hybrid-order",
+    "alt": "NMIT engineers coordinate one order using an API for an immediate check, an event for notification, and a batch of records for later comparison.",
+    "post": "api-vs-event-driven-vs-batch-integration"
+  },
+  {
+    "path": "/images/articles/api-event-batch-integration/ordering-replay",
+    "alt": "NMIT engineers check update 02 against the current order state and hold older update 01 for review, with duplicate update cards grouped aside.",
+    "post": "api-vs-event-driven-vs-batch-integration"
+  },
+  {
+    "path": "/images/articles/erp-crm-integration/cover",
+    "alt": "NMIT-branded ERP–CRM integration illustration shows two records joined by a shared identity key, with engineers comparing their data.",
+    "post": "erp-crm-integration"
+  },
+  {
+    "path": "/images/articles/erp-crm-integration/field-ownership",
+    "alt": "NMIT engineers assign ERP billing and credit fields and CRM contact and sales fields to separate owners within one shared account.",
+    "post": "erp-crm-integration"
+  },
+  {
+    "path": "/images/articles/erp-crm-integration/sync-exceptions",
+    "alt": "NMIT engineers isolate a flagged ERP–CRM record for review while valid account records continue to the receiving system.",
+    "post": "erp-crm-integration"
+  },
+  {
+    "path": "/images/articles/legacy-system-integration/cover",
+    "alt": "Legacy system documents connect through an amber contract boundary to shared interfaces, with two NMIT engineers reviewing the architecture.",
+    "post": "legacy-system-integration"
+  },
+  {
+    "path": "/images/articles/legacy-system-integration/data-mapping",
+    "alt": "Field-mapping illustration connects ERP CUST_NO, a shared customerId contract, and CRM contact_id through a verified translation boundary.",
+    "post": "legacy-system-integration"
+  },
+  {
+    "path": "/images/articles/legacy-system-integration/phased-rollout",
+    "alt": "Phased legacy integration roadmap progresses from map to pilot to expand, with an amber rollback path and the same two engineers reviewing the plan.",
+    "post": "legacy-system-integration"
+  },
+  {
+    "path": "/images/articles/payment-api-integration/cover",
+    "alt": "NMIT-branded payment API illustration shows a receipt, an amber waiting clock, and a verified-result seal, with engineers checking the payment record.",
+    "post": "partner-payment-apis"
+  },
+  {
+    "path": "/images/articles/payment-api-integration/timeout-recovery",
+    "alt": "NMIT engineers compare an unconfirmed order with an accepted provider receipt after a payment API response is lost.",
+    "post": "partner-payment-apis"
+  },
+  {
+    "path": "/images/articles/payment-api-integration/reconciliation",
+    "alt": "NMIT engineers reconcile order, payment-provider, and ledger records, setting an unmatched transaction aside for investigation.",
+    "post": "partner-payment-apis"
+  }
+]

@@ -7,6 +7,6 @@
     "build": "node scripts/build.mjs",
     "dev": "node scripts/server.mjs",
     "start": "node scripts/server.mjs",
-    "check": "node scripts/check.mjs"
+    "check": "node scripts/check.mjs && node scripts/check-blog.mjs && node scripts/check-discovery.mjs"
   }
 }

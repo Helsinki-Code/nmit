@@ -1,0 +1,209 @@
+[
+  {
+    "route": "/",
+    "poses": [
+      "explain",
+      "plan",
+      "investigate",
+      "investigate",
+      "listen"
+    ]
+  },
+  {
+    "route": "/services/",
+    "poses": [
+      "plan",
+      "explain"
+    ]
+  },
+  {
+    "route": "/services/cloud-services/",
+    "poses": [
+      "plan",
+      "investigate"
+    ]
+  },
+  {
+    "route": "/services/api-integration/",
+    "poses": [
+      "explain",
+      "investigate"
+    ]
+  },
+  {
+    "route": "/services/devops/",
+    "poses": [
+      "investigate",
+      "success"
+    ]
+  },
+  {
+    "route": "/services/staffing/",
+    "poses": [
+      "welcome",
+      "listen"
+    ]
+  },
+  {
+    "route": "/about/",
+    "poses": [
+      "welcome",
+      "listen"
+    ]
+  },
+  {
+    "route": "/clients/",
+    "poses": [
+      "success",
+      "listen"
+    ]
+  },
+  {
+    "route": "/workshop/",
+    "poses": [
+      "plan",
+      "explain"
+    ]
+  },
+  {
+    "route": "/insights/",
+    "poses": [
+      "investigate"
+    ]
+  },
+  {
+    "route": "/insights/cloud-computing-in-telecom/",
+    "poses": [
+      "explain",
+      "plan"
+    ]
+  },
+  {
+    "route": "/insights/apis-for-partner-payments/",
+    "poses": [
+      "explain",
+      "plan"
+    ]
+  },
+  {
+    "route": "/insights/innovation-and-long-term-growth/",
+    "poses": [
+      "explain",
+      "plan"
+    ]
+  },
+  {
+    "route": "/careers/",
+    "poses": [
+      "welcome",
+      "plan"
+    ]
+  },
+  {
+    "route": "/contact/",
+    "poses": [
+      "welcome",
+      "listen"
+    ]
+  },
+  {
+    "route": "/privacy/",
+    "poses": [
+      "listen",
+      "explain"
+    ]
+  },
+  {
+    "route": "/terms/",
+    "poses": [
+      "plan",
+      "listen"
+    ]
+  },
+  {
+    "route": "/blog/",
+    "poses": [
+      "explain"
+    ]
+  },
+  {
+    "route": "/blog/api-integration-monitoring/",
+    "poses": [
+      "explain",
+      "investigate",
+      "plan"
+    ]
+  },
+  {
+    "route": "/blog/integration-handover-checklist/",
+    "poses": [
+      "plan",
+      "investigate",
+      "success"
+    ]
+  },
+  {
+    "route": "/blog/incremental-legacy-modernization/",
+    "poses": [
+      "plan",
+      "explain",
+      "investigate"
+    ]
+  },
+  {
+    "route": "/blog/payment-api-testing-checklist/",
+    "poses": [
+      "plan",
+      "investigate",
+      "explain"
+    ]
+  },
+  {
+    "route": "/blog/hybrid-cloud-migration-checklist/",
+    "poses": [
+      "investigate",
+      "plan",
+      "explain"
+    ]
+  },
+  {
+    "route": "/blog/api-integration-project-cost/",
+    "poses": [
+      "investigate",
+      "plan",
+      "explain"
+    ]
+  },
+  {
+    "route": "/blog/api-vs-event-driven-vs-batch-integration/",
+    "poses": [
+      "plan",
+      "explain",
+      "investigate"
+    ]
+  },
+  {
+    "route": "/blog/erp-crm-integration/",
+    "poses": [
+      "plan",
+      "investigate",
+      "explain"
+    ]
+  },
+  {
+    "route": "/blog/legacy-system-integration/",
+    "poses": [
+      "plan",
+      "investigate",
+      "explain"
+    ]
+  },
+  {
+    "route": "/blog/partner-payment-apis/",
+    "poses": [
+      "explain",
+      "investigate",
+      "plan"
+    ]
+  }
+]

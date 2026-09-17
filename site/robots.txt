@@ -1,3 +1,5 @@
+# Public website content is available to crawlers.
 User-agent: *
 Allow: /
+
 Sitemap: https://nmit-solutions.com/sitemap.xml

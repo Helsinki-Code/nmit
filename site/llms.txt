@@ -1,0 +1,51 @@
+# NMIT Solutions
+
+> Bengaluru-based technology services covering cloud infrastructure, API and application integration, DevOps, and technology staffing.
+
+The site introduces NMIT services and publishes engineering guides. Confirm project scope, availability, fees, and support commitments directly with NMIT. Worked examples in the guides are hypothetical where stated. Nodi is a fictional brand mascot; conceptual illustrations do not represent actual customer deployments.
+
+Contact: info@nmit-solutions.com; +91 98869 70483. The contact form prepares an email locally; it does not submit an enquiry automatically.
+
+## Company and contact
+
+- [Cloud, integration & technology teams](https://nmit-solutions.com/): NMIT Solutions in Bengaluru offers API integration, cloud infrastructure, DevOps, and technology staffing. Explore engineering guides and a free integration workshop.
+- [Our company](https://nmit-solutions.com/about/): Meet NM IT Solutions, a Bengaluru-based provider of cloud, integration, DevOps, and staffing services.
+- [Our client network](https://nmit-solutions.com/clients/): Organizations displayed in the NMIT Solutions client network.
+- [Careers & technology teams](https://nmit-solutions.com/careers/): Contact NMIT Solutions about technology career opportunities and staffing.
+- [Contact our team](https://nmit-solutions.com/contact/): Discuss your cloud, integration, DevOps, staffing, or workshop requirements with NMIT Solutions.
+
+## Services and workshop
+
+- [Technology services](https://nmit-solutions.com/services/): Explore NMIT cloud infrastructure, API integration, DevOps, and technology staffing.
+- [Cloud services](https://nmit-solutions.com/services/cloud-services/): Bring infrastructure, security, and performance into one conversation. Plan a cloud environment around the way your business actually works.
+- [API integration](https://nmit-solutions.com/services/api-integration/): Connect data, applications, and business processes with API-led integration and modular cloud architectures.
+- [DevOps](https://nmit-solutions.com/services/devops/): Discuss the path from application development to deployment, with attention to the cloud infrastructure and integrations that support delivery.
+- [Staffing services](https://nmit-solutions.com/services/staffing/): Discuss staffing requirements alongside the cloud, integration, and delivery work your business is planning.
+- [Integration modernization workshop](https://nmit-solutions.com/workshop/): A free, one-day onsite workshop to align integration architecture with your business objectives.
+
+## Engineering guides
+
+- [Engineering guides](https://nmit-solutions.com/blog/): Practical guides to integration architecture, payments, cloud migration, and production ownership.
+- [API Integration Monitoring: Errors, Latency, Failed Workflows, and Business Outcomes](https://nmit-solutions.com/blog/api-integration-monitoring/): Monitor API integration errors, latency, failed workflows, and business outcomes with durable operation records, trace correlation, SLO alerts, and detection tests.
+- [Integration Handover Checklist: Documentation, Runbooks, and Production Ownership](https://nmit-solutions.com/blog/integration-handover-checklist/): An integration handover checklist covering contracts, runbooks, access, escalation, production ownership, receiving-team drills, and acceptance evidence.
+- [Incremental Legacy Modernization: Applying the Strangler Fig Pattern](https://nmit-solutions.com/blog/incremental-legacy-modernization/): Apply the Strangler Fig pattern to incremental legacy modernization: select a capability, control routing, assign data authority, test recovery, and retire dependencies.
+- [Payment API Testing Checklist: Duplicates, Lost Responses, and Partner Outages](https://nmit-solutions.com/blog/payment-api-testing-checklist/): A payment API testing checklist for duplicates, lost responses, partner outages, callback ordering, reconciliation, and reproducible release evidence.
+- [Hybrid Cloud Migration Checklist: Map Dependencies Before Cutover](https://nmit-solutions.com/blog/hybrid-cloud-migration-checklist/): Plan hybrid cloud migration with a dependency register, identity and DNS checks, migration waves, data transition, cutover gates, and recovery ownership.
+- [API Integration Project Cost: Scope Drivers and Questions Before Getting a Quote](https://nmit-solutions.com/blog/api-integration-project-cost/): Understand API integration project cost drivers: operations, data mapping, recovery, testing, environments, and handover. Prepare a brief and compare scoped quotes.
+- [API vs Event-Driven vs Batch Integration: Which Should You Choose?](https://nmit-solutions.com/blog/api-vs-event-driven-vs-batch-integration/): Choose API, event-driven, or batch integration with a decision table covering latency, coupling, ordering, recovery, and total operating cost.
+- [ERP–CRM Integration: Data Mapping, Synchronization, and Error Handling](https://nmit-solutions.com/blog/erp-crm-integration/): Plan ERP–CRM integration with stable record keys, field ownership, data mapping, sync frequency, conflict handling, backfill, and failed-record recovery.
+- [Legacy System Integration: Connect ERP, CRM, and Partner Systems Without a Full Rewrite](https://nmit-solutions.com/blog/legacy-system-integration/): Connect legacy ERP, CRM, and partner systems with APIs, adapters, events, and batch flows. Plan data ownership, failure handling, and a phased rollout.
+- [Payment API Integration: Handling Timeouts, Retries, and Reconciliation](https://nmit-solutions.com/blog/partner-payment-apis/): Handle payment API timeouts, safe retries, idempotency keys, webhook delivery, and reconciliation through a worked example of an unknown payment outcome.
+
+## Website policies
+
+- [Website privacy notice](https://nmit-solutions.com/privacy/): How this NMIT website handles theme preferences and email enquiries.
+- [Website terms](https://nmit-solutions.com/terms/): Information about this NMIT company website and business enquiries.
+- [Cookies & browser storage](https://nmit-solutions.com/cookies/): How NMIT uses local browser storage, fonts, and external services.
+- [Accessibility statement](https://nmit-solutions.com/accessibility/): Accessibility features, known limits, and how to report a barrier on the NMIT website.
+- [Content & illustration notice](https://nmit-solutions.com/disclaimer/): How to interpret NMIT engineering guides, examples, illustrations, and third-party references.
+
+## Site navigation
+
+- [Sitemap](https://nmit-solutions.com/sitemap/): Browse all website pages.
+- [XML sitemap](https://nmit-solutions.com/sitemap.xml): Canonical page URLs for crawlers.

@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://nmit-solutions.com/</loc></url><url><loc>https://nmit-solutions.com/services/</loc></url><url><loc>https://nmit-solutions.com/services/cloud-services/</loc></url><url><loc>https://nmit-solutions.com/services/api-integration/</loc></url><url><loc>https://nmit-solutions.com/services/devops/</loc></url><url><loc>https://nmit-solutions.com/services/staffing/</loc></url><url><loc>https://nmit-solutions.com/about/</loc></url><url><loc>https://nmit-solutions.com/clients/</loc></url><url><loc>https://nmit-solutions.com/workshop/</loc></url><url><loc>https://nmit-solutions.com/insights/</loc></url><url><loc>https://nmit-solutions.com/insights/cloud-computing-in-telecom/</loc></url><url><loc>https://nmit-solutions.com/insights/apis-for-partner-payments/</loc></url><url><loc>https://nmit-solutions.com/insights/innovation-and-long-term-growth/</loc></url><url><loc>https://nmit-solutions.com/careers/</loc></url><url><loc>https://nmit-solutions.com/contact/</loc></url><url><loc>https://nmit-solutions.com/privacy/</loc></url><url><loc>https://nmit-solutions.com/terms/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://nmit-solutions.com/</loc></url>
+  <url><loc>https://nmit-solutions.com/services/</loc></url>
+  <url><loc>https://nmit-solutions.com/services/cloud-services/</loc></url>
+  <url><loc>https://nmit-solutions.com/services/api-integration/</loc></url>
+  <url><loc>https://nmit-solutions.com/services/devops/</loc></url>
+  <url><loc>https://nmit-solutions.com/services/staffing/</loc></url>
+  <url><loc>https://nmit-solutions.com/about/</loc></url>
+  <url><loc>https://nmit-solutions.com/clients/</loc></url>
+  <url><loc>https://nmit-solutions.com/workshop/</loc></url>
+  <url><loc>https://nmit-solutions.com/insights/</loc></url>
+  <url><loc>https://nmit-solutions.com/insights/cloud-computing-in-telecom/</loc></url>
+  <url><loc>https://nmit-solutions.com/insights/apis-for-partner-payments/</loc></url>
+  <url><loc>https://nmit-solutions.com/insights/innovation-and-long-term-growth/</loc></url>
+  <url><loc>https://nmit-solutions.com/careers/</loc></url>
+  <url><loc>https://nmit-solutions.com/contact/</loc></url>
+  <url><loc>https://nmit-solutions.com/privacy/</loc></url>
+  <url><loc>https://nmit-solutions.com/terms/</loc></url>
+  <url><loc>https://nmit-solutions.com/cookies/</loc></url>
+  <url><loc>https://nmit-solutions.com/accessibility/</loc></url>
+  <url><loc>https://nmit-solutions.com/disclaimer/</loc></url>
+  <url><loc>https://nmit-solutions.com/blog/</loc></url>
+  <url><loc>https://nmit-solutions.com/blog/api-integration-monitoring/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/api-integration-monitoring/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/integration-handover-checklist/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/integration-handover-checklist/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/incremental-legacy-modernization/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/incremental-legacy-modernization/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/payment-api-testing-checklist/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/payment-api-testing-checklist/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/hybrid-cloud-migration-checklist/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/hybrid-cloud-migration-checklist/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/api-integration-project-cost/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/api-integration-project-cost/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/api-vs-event-driven-vs-batch-integration/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/api-event-batch-integration/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/erp-crm-integration/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/erp-crm-integration/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/legacy-system-integration/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/legacy-system-integration/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/blog/partner-payment-apis/</loc><lastmod>2026-09-17</lastmod><image:image><image:loc>https://nmit-solutions.com/images/articles/payment-api-integration/cover.png</image:loc></image:image></url>
+  <url><loc>https://nmit-solutions.com/sitemap/</loc></url>
+</urlset>

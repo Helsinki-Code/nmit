@@ -9,3 +9,5 @@
 @media(max-width:360px){.wrap{width:calc(100% - 32px)}.hero h1{font-size:56px}.hero-actions{gap:15px}.hero-actions .button{font-size:10px;gap:10px}.hero-actions .text-link{font-size:10px}.system-node{width:96px}.page-heading h1{font-size:38px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.workshop-sheet{transform:none}.button:hover,.system-node:hover{transform:none}}
 @media print{.site-header,.closing,footer,.header-actions,.hero-actions,.theme-toggle,.menu-toggle{display:none}body{background:#f5f7f9;color:#202a38}.wrap{width:100%}.article-body{margin-left:0}a{text-decoration:underline}}
+
+.footer-bottom{gap:20px;align-items:flex-start}.footer-bottom>div{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:12px 22px}.legal section{display:flow-root}.legal ul{padding-left:20px}.legal li{margin:12px 0}.legal a{text-decoration:underline;text-underline-offset:3px}@media(max-width:620px){.footer-bottom>div{justify-content:flex-start}}

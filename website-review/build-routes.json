@@ -15,5 +15,20 @@
   "/careers/",
   "/contact/",
   "/privacy/",
-  "/terms/"
+  "/terms/",
+  "/cookies/",
+  "/accessibility/",
+  "/disclaimer/",
+  "/blog/",
+  "/blog/api-integration-monitoring/",
+  "/blog/integration-handover-checklist/",
+  "/blog/incremental-legacy-modernization/",
+  "/blog/payment-api-testing-checklist/",
+  "/blog/hybrid-cloud-migration-checklist/",
+  "/blog/api-integration-project-cost/",
+  "/blog/api-vs-event-driven-vs-batch-integration/",
+  "/blog/erp-crm-integration/",
+  "/blog/legacy-system-integration/",
+  "/blog/partner-payment-apis/",
+  "/sitemap/"
 ]
